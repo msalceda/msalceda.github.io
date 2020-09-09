@@ -10,7 +10,6 @@ keywords: statistics, data analytics
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/msalceda">Github</a></li>
-          [comment]: <li><a href="http://kbroman.org/blog">blog</a></li>
           <li><a href="https://www.linkedin.com/in/salcedam/">LinkedIn</a></li>
       </ul>
   </div>
