@@ -1,29 +1,17 @@
 ---
 layout: page
-title: about
-description: Benjamin Harvey is...
+title: About
+description: Michael Salceda is...
 ---
 
-#### <a name="currentposition"></a>current position
-{Insert text here}
+#### <a name="currentposition"></a>Current Position
+Michael Salceda is a data scientist at Publicis Sapient, working with various private and public sector clients to implement machine learning solutions. He has been with Publicis Sapient since 2017 and has been on projects with clients such as Bed Bath & Beyond, Samsung, and McDonald's.
+
+#### <a name="education"></a>Education
+Michael graduated from the University of Illinois at Urbana-Champaign in 2017 with a B.S. in Computer Engineering. He is currently pursuing an M.S. in Data Analytics from George Washington University.
 
 
-#### <a name="previousposition"></a>previous positions
-{Insert text here}
-
-
-#### <a name="researchbackground"></a>research background
-{Insert text here}
-
-
-#### <a name="education"></a>ecucation
-{Insert text here}
-
-
-#### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
+#### <a name="cvandresume"></a>Resume
+[Resume ![resume as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/20200820_Resume.pdf)
 
 ---
-
-
-

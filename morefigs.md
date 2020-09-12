@@ -1,19 +1,20 @@
 ---
 layout: frontpage
-title: Karl Broman
+title: Michael Salceda
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">linkedin</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/20200820_Resume.pdf">cv</a></li>
+          <li><a href="https://github.com/msalceda">Github</a></li>
+          <li><a href="https://www.linkedin.com/in/salcedam/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
+
 ### <a name="Portfolio"></a>Portfolio
+
 <table class="wide">
 <tr>
   <td class="left">
