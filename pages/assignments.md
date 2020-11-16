@@ -118,6 +118,7 @@ Introduction to programming for data analytics using the Python programming lang
 ####  <a name="emse6574-assignment1"></a>Assignment 1
 ##### Assignment Description 
 
+<a href="{{ BASE_PATH }}/assets/emse6574_assignments/Week_1_Assignment_Michael_Salceda.ipynb">Machine Learning Capstone</a>
 
 ---
 
