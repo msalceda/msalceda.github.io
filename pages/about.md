@@ -4,6 +4,8 @@ title: About
 description: Michael Salceda is...
 ---
 
+<center><img src="/assets/Me.jpg" alt="Me" style="width:300px;height:300px;"></center>
+
 #### <a name="currentposition"></a>Current Position
 Michael Salceda is a data scientist at Publicis Sapient, working with various private and public sector clients to implement machine learning solutions. He has been with Publicis Sapient since 2017 and has been on projects with clients such as Bed Bath & Beyond, Samsung, and McDonald's.
 

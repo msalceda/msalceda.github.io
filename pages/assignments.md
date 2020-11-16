@@ -1,137 +1,167 @@
 ---
 layout: page
-title: labs & assignments
-description: Ben Harvey's assignments
+title: Class Labs & Assignments
+description: Michael Salceda's Lab & Assignment Submissions
 ---
-
-
+<a name="top"></a>
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#Assignment1">Assignment1</a></li>
-            <li><a href="#Assignment2">Assignment2</a></li>
-            <li><a href="#Assignment3">Assignment3</a></li>
-            <li><a href="#Assignment4">Assignment4</a></li>
-            <li><a href="#ExtraCredit">Extra Credit Assignment</a></li>
-            <li><a href="#labassignments">Lab Assignments</a></li>
+            <li><a href="#seas6401">SEAS 6401</a></li>
+            <li><a href="#emse6574">EMSE 6574</a></li>
         </ul>
     </div>
 </div>
 
+This page contains links to assignments and labs from various classes taken at GWU and beyond. Use the navigation bar above to go to a particular class. Info on when the class was taken and what professor taught which course can be found in the table below.
 
-### EMSE 6992 Assignments
-####  <a name="Assignment1"></a>Assignment1
-##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+ Class    | | | Location | | | Professor             | | | Time 
+ :------: | | | :----:   | | | :-------------------: | | | :-------:
+ SEAS 6401| | | GWU      | | | Prof. Benjamin Harvey | | | Fall 2020
+ EMSE 6574| | | GWU      | | | Prof. Maksim Tsvetovat| | | Fall 2020
 
-{Add description of example an assignment here}
+### <a name="seas6401"></a> SEAS 6401 - Data Analytics Foundations & Practicum
+##### Course Description
+Introduction to concepts and techniques in data analytics. Basic techniques of data science; algorithms for data mining; basics of statistical modeling and their “Big Data” applications. Concepts, abstractions, and practical techniques. Restricted to students in the MS in data analytics program.
 
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#seas6401-assignment1">Assignment 1</a></li>
+            <li><a href="#seas6401-assignment2">Assignment 2</a></li>
+            <li><a href="#seas6401-assignment3">Assignment 3</a></li>
+            <li><a href="#seas6401-assignment4">Assignment 4</a></li>
+        </ul>
+    </div>
+</div>
 
-##### <a name="visualization"></a>visualization
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+####  <a name="seas6401-assignment1"></a>Assignment 1
+##### Assignment Description 
+Go through a set of notebooks for Databricks courses DB-100, DB-105, and JEFS ("Just Enough for Spark"). The links below are to the DB-100 and DB-105 course labs. 
 
-{Add description of example an assignment here}
-
-Results | Repository
----|---
-[assignment1 results]()| [assignment1 repositiory]()
-
----
-
-
-####  <a name="Assignment2"></a>Assignment2
-##### <a name="scientificcomputing"></a>scientific computing
-* [Lab: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
-
-{Add description of example an assignment here}
-
-
-##### <a name="statisticalanalysis"></a>statistic alanalysis
-* [Lab: Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
-* [Lab: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
-
-{Add description of example an assignment here}
-
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [assignment2 results]()| [assignment2 repositiory]()|
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW1/Reading Data Lab.html">Reading Data</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW1/Transformations And Actions Lab.html">Transformations and Actions</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW1/Intro To DF Part 1 Lab.html">Intro to DataFrames - Part 1</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW1/Intro To DF Part 2 Lab.html">Intro to DataFrames - Part 2</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW1/Intro To DF Part 3 Lab.html">Intro to DataFrames - Part 3</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW1/Intro To DF Part 4 Lab.html">Intro to DataFrames - Part 4</a>
 
 ---
 
+####  <a name="seas6401-assignment2"></a>Assignment 2
+##### Assignment Description
+Go through a set of notebooks for the Databricks courses "Machine Learning Deployment" and "Distributed Natural Language Processing". Below are the links to the lab notebooks and the capstone notebook (for the "Machine Learning Deployment" course only).
 
-####  <a name="Assignment3"></a>Assignment3
-##### <a name="deeplearning"></a>machine learning part1
-* [Lab: Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
+##### Machine Learning Deployment
+###### Labs
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW2/Cosmos_vs_Parquet.html">Cosmos vs. Parquet</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW2/Data_Stream_Processing.html">Data Stream Processing</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW2/Data_Drift_Detection.html">Data Drift Monitoring & Detection</a>
 
-{Add description of example an assignment here}
+###### Capstone
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW2/Deployment_Capstone.html">Production Deployment Capstone</a>
 
-
-##### <a name="machinelearning"></a>machine learning part2
-* [Lab: Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
-
-{Add description of example an assignment here}
-
-
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [assignment3 results]()| [assignment3 repositiory]()|
-
----
-
-
-
-####  <a name="Assignment4"></a>Assignment4
-##### <a name="networkanalysis"></a>network analysis
-* [Lab: Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
-
-{Add description of example an assignment here}
-
-
-##### <a name="bigdataanalytics"></a>big data analytics
-* [Lab: MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
-
-{Add description of example an assignment here}
-
-
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [assignment4 results]()| [assignment4 repositiory]()|
+##### Distributed Natural Language Processing
+###### Labs
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW2/N_Grams_Lab.html">N-Grams</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW2/NLP 03L - Sentiment Analysis Lab.html">Sentiment Analysis</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW2/NLP 04L - Visualizing Vector Arithmetic Lab.html">Visualizing Vector Arithmetic</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW2/NLP 05L - Word2Vec Embeddings Lab.html">Word2Vec Embeddings</a>
 
 ---
 
+####  <a name="seas6401-assignment3"></a>Assignment 3
+##### Assignment Description
+Go through a set of ntoebooks for the Databricks course "Machine Learning with Apache Spark". The labs and capstone notebook are below.
 
-####  <a name="ExtraCredit"></a>Extra Credit Assignment
-##### <a name="webscraping"></a>webs craping
-* [Lab: Web Scraping](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Johanna.ipynb)
+###### Labs
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW3/ML 01L - Data Exploration Lab.html">Data Exploration</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW3/ML 02L - Linear Regression I Lab.html">Linear Regression - Part 1</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW3/ML 03L - Linear Regression II Lab.html">Linear Regression - Part 2</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW3/ML 07L - Hyperparameter Tuning Lab.html">Hyperparameter Tuning with Spark</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW3/ML 08L - Hyperopt Lab.html">Hyperparameter Tuning with Hyperopt</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW3/ML 12L - Pandas UDF Lab.html">Model Inference with Pandas UDFs</a>
 
-{Add description of example an assignment here}
-
-
-##### <a name="textprocessing"></a>sampling and text processing
-* [Lab: Sampling and Text Processing ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab7/GibbsSampler.ipynb)
-
-{Add description of example an assignment here}
-
-
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [Extra Credit results]()| [Extra Credit repositiory]()|
+###### Capstone
+* **Notebook View**: <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW3/ML 14 - Capstone Project - Notebook.html">Machine Learning Capstone</a>
+* **Dashboard View**: <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW3/ML 14 - Capstone Project.html">Machine Learning Capstone</a>
 
 ---
 
+####  <a name="seas6401-assignment4"></a>Assignment 4
 
-#### EMSE 6992 Labs
-##### <a name="labassignments"></a>lab assignments
+<center><a href="#top">Back to Top</a></center>
 
-* [Web Scraping](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Johanna.ipynb)
-* [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
-* [Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
-* [Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
-* [Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
-* [Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
-* [Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
-* [MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
+---
+
+### <a name="emse6574"></a> EMSE 6574 - Programming for Analytics
+##### Course Description
+Introduction to programming for data analytics using the Python programming language. Prepares students for higher-level courses in data analytics. Recommended background: Some prior experience with programming.
+
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#emse6574-assignment1">Assignment 1</a></li>
+            <li><a href="#emse6574-assignment2">Assignment 2</a></li>
+            <li><a href="#emse6574-assignment3">Assignment 3</a></li>
+            <li><a href="#emse6574-assignment4">Assignment 4</a></li>
+            <li><a href="#emse6574-assignment5">Assignment 5</a></li>
+            <li><a href="#emse6574-assignment6">Assignment 6</a></li>
+            <li><a href="#emse6574-assignment7">Assignment 7</a></li>
+            <li><a href="#emse6574-assignment8">Assignment 8</a></li>
+            <li><a href="#emse6574-assignment9">Assignment 9</a></li>
+            <li><a href="#emse6574-assignment10">Assignment 10</a></li>
+        </ul>
+    </div>
+</div>
+
+####  <a name="emse6574-assignment1"></a>Assignment 1
+##### Assignment Description 
 
 
+---
+
+####  <a name="emse6574-assignment2"></a>Assignment 2
+##### Assignment Description 
+
+---
+
+####  <a name="emse6574-assignment3"></a>Assignment 3
+##### Assignment Description 
+
+---
+
+####  <a name="emse6574-assignment4"></a>Assignment 4
+##### Assignment Description 
+
+---
+
+####  <a name="emse6574-assignment5"></a>Assignment 5
+##### Assignment Description 
+
+---
+
+####  <a name="emse6574-assignment6"></a>Assignment 6
+##### Assignment Description 
+
+---
+
+####  <a name="emse6574-assignment7"></a>Assignment 7
+##### Assignment Description 
+
+---
+
+####  <a name="emse6574-assignment8"></a>Assignment 8
+##### Assignment Description 
+
+---
+
+####  <a name="emse6574-assignment9"></a>Assignment 9
+##### Assignment Description 
+
+---
+
+####  <a name="emse6574-assignment10"></a>Assignment 10
+##### Assignment Description 
 
 ---
