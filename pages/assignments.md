@@ -117,52 +117,92 @@ Introduction to programming for data analytics using the Python programming lang
 
 ####  <a name="emse6574-assignment1"></a>Assignment 1
 ##### Assignment Description 
+Create a function to return whether a string is a palindrome or not. Also, create a fake dataset and filter it based on some conditions.
 
-<a href="{{ BASE_PATH }}/assets/emse6574_assignments/Week_1_Assignment_Michael_Salceda.ipynb">Machine Learning Capstone</a>
+<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_1_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
 
 ---
 
 ####  <a name="emse6574-assignment2"></a>Assignment 2
 ##### Assignment Description 
+Create a graph class and use it to create a social network graph. Then, look at the FEC data, do some spelunking, and build a graph of connections you find in the FEC data.
+
+<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
 
 ---
 
 ####  <a name="emse6574-assignment3"></a>Assignment 3
 ##### Assignment Description 
+Take a look at the FEC data and do the following:
+
+1. Find three companies and look at if there are patterns in donations in two-week periods.
+2. Determine who donates first in those companies.
+3. See if you can find the political trends by zip code and compare how they match up to donations.
+4. Apply a linear regression model to try to determine if a boss donating to a party causes employees more/less likely to donate to the same party.
+5. See the party balance in Colorado.
+
+<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_3_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
 
 ---
 
 ####  <a name="emse6574-assignment4"></a>Assignment 4
 ##### Assignment Description 
+Analyze m_data and w_data. What is it telling us? There were two groups: a contol group and a test group. The test group was told some additional information on the dataset. I was part of the control group - I did not receive any hints/information on the dataset.
+
+<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_4_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
 
 ---
 
 ####  <a name="emse6574-assignment5"></a>Assignment 5
 ##### Assignment Description 
+Go through [https://www.kaggle.com/ash316/ml-from-scratch-with-iris](https://www.kaggle.com/ash316/ml-from-scratch-with-iris) and replicate the notebook. Also try it on another dataset.
+
+<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_5_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
 
 ---
 
 ####  <a name="emse6574-assignment6"></a>Assignment 6
 ##### Assignment Description 
+Find a regressor that will predict diamond prices better than the in-class regressor. It should have:
+* Fewer errors > $2,500
+* Fewer or no errors > 10% of price
+
+The dataset to use is the diamond dataset ([https://www.kaggle.com/shivam2503/diamonds](https://www.kaggle.com/shivam2503/diamonds)).
+
+<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_6_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
 
 ---
 
 ####  <a name="emse6574-assignment7"></a>Assignment 7
 ##### Assignment Description 
+Find a dataset and apply a random forest classifier/regressor on it.
+
+<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_7_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
 
 ---
 
 ####  <a name="emse6574-assignment8"></a>Assignment 8
 ##### Assignment Description 
+Code a genetic algorithm to optimize a particular problem. My problem of choice is the traveling salesman problem - visit all cities in a list in the shortest distance possible without revisiting already visited cities.
+
+<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_8_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
 
 ---
 
 ####  <a name="emse6574-assignment9"></a>Assignment 9
 ##### Assignment Description 
+Pick a stock and download price data. Then resample data to weekly and monthly prices. Determine if there's any seasonality and train a SARIMA model on it to try and predict future prices.
+
+<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_9_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
 
 ---
 
 ####  <a name="emse6574-assignment10"></a>Assignment 10
 ##### Assignment Description 
+Find a source of text and create a bag-of-words representation. Build a simple sentiment analyzer from scratch without using any sentiment packages.
+
+<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_10_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
+
+<center><a href="#top">Back to Top</a></center>
 
 ---
