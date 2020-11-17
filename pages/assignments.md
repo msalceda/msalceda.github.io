@@ -7,8 +7,16 @@ description: Michael Salceda's Lab & Assignment Submissions
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#seas6401">SEAS 6401</a></li>
-            <li><a href="#emse6574">EMSE 6574</a></li>
+            <li>
+                <ul class="dropdown">
+                    <li><a href="#GWU">The George Washington University</a>
+                        <ul class="dropdown-content">
+                            <li><a href="#seas6401">SEAS 6401</a></li>
+                            <li><a href="#emse6574">EMSE 6574</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
         </ul>
     </div>
 </div>
@@ -20,6 +28,11 @@ This page contains links to assignments and labs from various classes taken at G
  SEAS 6401| | | GWU      | | | Prof. Benjamin Harvey | | | Fall 2020
  EMSE 6574| | | GWU      | | | Prof. Maksim Tsvetovat| | | Fall 2020
 
+---
+---
+## <a name="GWU"></a> The George Washington University Classes
+---
+---
 ### <a name="seas6401"></a> SEAS 6401 - Data Analytics Foundations & Practicum
 ##### Course Description
 Introduction to concepts and techniques in data analytics. Basic techniques of data science; algorithms for data mining; basics of statistical modeling and their “Big Data” applications. Concepts, abstractions, and practical techniques. Restricted to students in the MS in data analytics program.
@@ -147,7 +160,7 @@ Take a look at the FEC data and do the following:
 
 ####  <a name="emse6574-assignment4"></a>Assignment 4
 ##### Assignment Description 
-Analyze m_data and w_data. What is it telling us? There were two groups: a contol group and a test group. The test group was told some additional information on the dataset. I was part of the control group - I did not receive any hints/information on the dataset.
+Analyze `m_data` and `w_data`. What is it telling us? There were two groups: a contol group and a test group. The test group was told some additional information on the dataset. I was part of the control group - I did not receive any hints/information on the dataset.
 
 <a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_4_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
 

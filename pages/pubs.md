@@ -1,61 +1,61 @@
 ---
 layout: page
-title: publications
-description: Ben Harvey's publications
+title: Publications
+description: Michael Salceda's Publications
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#book">book</a></li>
-            <li><a href="#articles">articles</a></li>
-            <li><a href="#conferences">conferences</a></li>
-            <li><a href="#editorials">editorials</a></li>
-            <li><a href="#letters">letters</a></li>
-            <li><a href="#chapters">chapters</a></li>
-            <li><a href="#techreports">tech reports</a></li>
-            <li><a href="#thesis">dissertation</a></li>
+            <li><a href="#book">Books</a></li>
+            <li><a href="#articles">Articles</a></li>
+            <li><a href="#conferences">Conferences</a></li>
+            <li><a href="#editorials">Editorials</a></li>
+            <li><a href="#letters">Letters</a></li>
+            <li><a href="#chapters">Chapters</a></li>
+            <li><a href="#techreports">Tech Reports</a></li>
+            <li><a href="#thesis">Dissertation</a></li>
         </ul>
     </div>
 </div>
 
 
-#### <a name="book"></a>book
+#### <a name="book"></a>Books
 
 
 ---
 
-#### <a name="articles"></a>journal articles
+#### <a name="articles"></a>Journal Articles
 
 ---
 
 
-#### <a name="conferences"></a>conferences
+#### <a name="conferences"></a>Conferences
 
 ---
 
 
-#### <a name="editorials"></a>editorials
+#### <a name="editorials"></a>Editorials
 
 ---
 
 
-#### <a name="letters"></a>letters
+#### <a name="letters"></a>Letters
 
 ---
 
 
-#### <a name="chapters"></a>proceedings and book chapters
+#### <a name="chapters"></a>Proceedings and Book Chapters
 
 ---
 
 
-#### <a name="techreports"></a>technical reports
+#### <a name="techreports"></a>Technical Reports
 
 ---
 
 
-#### <a name="thesis"></a>dissertation
+#### <a name="thesis"></a>Dissertation
 
 ---
 

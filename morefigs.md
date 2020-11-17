@@ -17,92 +17,35 @@ title: Michael Salceda
 
 <table class="wide">
 <tr>
-  <td class="left">
-    <a href="pages/publpics/rqtlexper_fig1.html">
-        <img src="assets/publpics/rqtlexper_fig1.png" alt="Broman (2014) Fig 1" title="Broman (2014) Fig 1"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/rqtlexper_fig2.html">
-        <img src="assets/publpics/rqtlexper_fig2.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/>
-    </a>
-  </td>
+    <td class="left">
+        <a href="pages/portfolio_pages/seas6401_hw3_capstone.html">
+            <img src="assets/pics/portfolio_pics/seas6401_hw3_capstone.png" alt="SEAS 6401 HW3 Confusion Matrix" title="SEAS 6401 HW3 Confusion Matrix" style="width:325px;height:325px;"/>
+        </a>
+    </td>
+    <td class="right">
+        <a href="pages/portfolio_pages/emse6574_hw9_timeseries.html">
+            <img src="assets/pics/portfolio_pics/emse6574_hw9_timeseries.png" alt="EMSE 6574 Time Series Analysis" title="EMSE 6574 Time Series Analysis" style="width:350px;height:150px;"/>
+        </a>
+    </td>
 </tr>
 <tr>
-  <td class="left">
-    <a href="pages/publpics/phyloqtl_fig6.html">
-        <img src="assets/publpics/phyloqtl_fig6.png" alt="Broman et al. (2012) Fig 6" title="Broman et al. (2012) Fig 6"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/phyloqtl_fig2.html">
-        <img src="assets/publpics/phyloqtl_fig2.png" alt="Broman et al. (2012) Fig 2" title="Broman et al. (2012) Fig 2"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/rigenome_fig2.html">
-        <img src="assets/publpics/rigenome_fig2.png" alt="Broman (2005) Fig 2" title="Broman (2005) Fig 2"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/rigenome_fig6.html">
-        <img src="assets/publpics/rigenome_fig6.png" alt="Broman (2005) Fig 6" title="Broman (2005) Fig 6"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/inversion_fig1.html">
-        <img src="assets/publpics/inversion_fig1.png" alt="Broman et al. (2003) Fig 1" title="Broman et al. (2003) Fig 1"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/preCCprob_tabS13.html">
-        <img src="assets/publpics/preCCprob_tabS13.png" alt="Broman (2012) Table S13" title="Broman (2012) Table S13"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/inversion_fig2.html">
-        <img src="assets/publpics/inversion_fig2.png" alt="Broman et al. (2003) Fig 2" title="Broman et al. (2003) Fig 2"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/interfer_fig1.html">
-        <img src="assets/publpics/interfer_fig1.png" alt="Broman and Weber (2000) Fig 1" title="Broman and Weber (2000) Fig 1"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/xchr_fig2.html">
-        <img src="assets/publpics/xchr_fig2c.png" alt="Broman et al. (2006) Fig 2c" title="Broman et al. (2006) Fig 2c"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/mousebc_fig3.html">
-        <img src="assets/publpics/mousebc_fig3.png" alt="Broman et al. (2002) Fig 3" title="Broman et al. (2002) Fig 3"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/geneticmaps_fig3.html">
-        <img src="assets/publpics/geneticmaps_fig3a.png" alt="Broman et al. (1998) Fig 3a" title="Broman et al. (1998) Fig 3a"/>
-    </a>
-  </td>
-  <td class="right">
-  </td>
+    <td class="left">
+        <a href="pages/portfolio_pages/emse6574_hw8_genetic_algo.html">
+            <img src="assets/pics/portfolio_pics/emse6574_hw8_genetic_algo.png" alt="EMSE 6574 Genetic Algorithm" title="EMSE 6574 Genetic Algorithm" style="width:325px;height:200px;"/>
+        </a>
+    </td>
+    <td class="right">
+        <a href="pages/portfolio_pages/emse6574_hw4_gorilla.html">
+            <img src="assets/pics/portfolio_pics/emse6574_hw4_data_pitfalls.png" alt="EMSE 6574 Gorilla" title="EMSE 6574 Gorilla" style="width:325px;height:300px;"/>
+        </a>
+    </td>
 </tr>
 </table>
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="index.html">back</a></li>
+          <li><a href="index.html">Back</a></li>
       </ul>
   </div>
 </div>
