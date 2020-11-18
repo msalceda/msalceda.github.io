@@ -4,13 +4,13 @@ title: Michael Salceda
 ---
 
 <div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/20200820_Resume.pdf">cv</a></li>
-          <li><a href="https://github.com/msalceda">Github</a></li>
-          <li><a href="https://www.linkedin.com/in/salcedam/">LinkedIn</a></li>
-      </ul>
-  </div>
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="{{ BASE_PATH }}/assets/20200820_Resume.pdf">Resume</a></li>
+            <li><a href="https://github.com/msalceda">GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/salcedam/">LinkedIn</a></li>
+        </ul>
+    </div>
 </div>
 
 ### <a name="Portfolio"></a>Portfolio
@@ -43,9 +43,9 @@ title: Michael Salceda
 </table>
 
 <div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="index.html">Back</a></li>
-      </ul>
-  </div>
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="index.html">Back</a></li>
+        </ul>
+    </div>
 </div>
