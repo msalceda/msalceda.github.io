@@ -151,10 +151,10 @@
   background-color: #f9f9f9;
   list-style: none;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  top: -5px;
+  top: -10px;
   right: -max-content;
   width: max-content;
-  margin: 0;
+  margin: 5px;
   padding: 5px;
   font-family: inherit;
   text-align: center;
@@ -175,10 +175,10 @@
   background-color: #f9f9f9;
   list-style: none;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  top: -5px;
+  top: -10px;
   right: -max-content;
   width: max-content;
-  margin: 0;
+  margin: 5px;
   padding: 5px;
   font-family: inherit;
   text-align: center;

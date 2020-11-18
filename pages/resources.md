@@ -1,147 +1,130 @@
 ---
 layout: page
 title: Resources
-description: Ben Harvey's assignments
+description: Data Science Resources
 ---
-
+<a name="top"></a>
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#Data">Data</a></li>
+            <li>
+                <ul class="dropdown">
+                    <li><a href="#Data">Data</a>
+                        <ul class="dropdown-content">
+                            <li>
+                                <a href="#data_repos">Data Repositories</a>
+                                <ul class="dropdown-subcontent-level-1">
+                                    <li><a href="#aws">AWS Open Data Registry</a></li>
+                                    <li><a href="#fivethirtyeight">FiveThirtyEight Data</a></li>
+                                    <li><a href="#google">Google BigQuery Public Datasets</a></li>
+                                    <li><a href="#kaggle">Kaggle Datasets</a></li>
+                                    <li><a href="#kdd">KDD Cup Archives</a></li>
+                                    <li><a href="#uci">UCI Machine Learning Repository</a></li>
+                                    <li><a href="#world_bank">World Bank Open Data</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="#datasets">Datasets</a>
+                                <ul class="dropdown-subcontent-level-1">
+                                    <li><a href="#youtube">YouTube-8M Segments</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
             <li><a href="#Tutorials">Tutorials</a></li>
-            <li><a href="#Miscelaneous">Miscelaneous</a></li>
+            <li><a href="#Miscellaneous">Miscellaneous</a></li>
         </ul>
     </div>
 </div>
 
+Resources on this page are mostly available for free and without extra legwork. Make sure to read through the documentation of the data repositories or datasets before using them to fully understand them.
 
-## <a name="Data"></a>Data
-#### <a name="Government Open Data"></a>[data.gov.in](https://data.gov.in/)
-{Add description of data here}
+### <a name="Data"></a>Data
+#### <a name="data_repos"></a>Data Repositories
+##### <a name="aws"></a>AWS Open Data Registry [![GitHub](icons16/github-icon.png)](https://github.com/awslabs/open-data-registry/)
+AWS hosts a registry with open data to use. Data hosted here cannot be downloaded/used via normal means; access to the data is available through AWS services. Keep in mind that data here is also not maintained or owned by AWS so data can come and go. For more details on how to access the data, go to the GitHub link above. 
 
-[data.gov.in data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-#### <a name="qtl"></a>[World Band](http://data.worldbank.org/)
-{Add description of data here}
-
-[World Bank data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+[More Information](https://aws.amazon.com/datasets/) 
 
 ---
 
-#### <a name="qtl"></a>[Reserve Bank India](https://rbi.org.in/Scripts/Statistics.aspx)
-{Add description of data here}
+##### <a name="fivethirtyeight"></a>FiveThirtyEight Data
+FiveThirtyEight has a data collection that is publically available. The data released by FiveThirtyEight is all data used in creating the various visualizations across their website.
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-#### <a name="qtl"></a>[Five Thirty Eight Datasets](https://github.com/fivethirtyeight/data)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+[Data Repository](https://data.fivethirtyeight.com/)
 
 ---
 
-#### <a name="qtl"></a>[AWS dataset](https://aws.amazon.com/datasets/)
-{Add description of data here}
+##### <a name="google"></a>Google BigQuery Public Datasets
+Google hosts publically available data that can be accessed through BigQuery. Instructions on how to access and use the data is located in the page linked below.
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-#### <a name="qtl"></a>[Google datasets](https://cloud.google.com/bigquery/public-data/)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+[More Information](https://cloud.google.com/bigquery/public-data/)
 
 ---
 
-#### <a name="qtl"></a>[Youtube labeled Video datasets](https://research.google.com/youtube8m/)
-{Add description of data here}
+#### <a name="kaggle"></a>Kaggle Datasets
+A repository of all the datasets available to use on Kaggle for either competitions or personal work. The data can be used in conjuction with Kaggle notebooks or separately by downloading the files as long as you have a Kaggle account.
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-#### <a name="qtl"></a>[UCI Machine Learning Repisitory](https://archive.ics.uci.edu/ml/datasets.html)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+[Data Repository](https://www.kaggle.com/datasets)
 
 ---
 
-#### <a name="qtl"></a>[Kaggle](https://www.kaggle.com/datasets)
-{Add description of data here}
+##### <a name="kdd"></a>KDD Cup Archives
+This repository has all of the information for past KDD Cups. Some pages have direct links to data while others may have used other third-party solutions to storing the data so not everything may be available.
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-#### <a name="qtl"></a>[Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+[Data Repository](https://www.kdd.org/kdd-cup)
 
 ---
 
-#### <a name="qtl"></a>[Qandl](https://www.quandl.com/)
-{Add description of data here}
+##### <a name="uci"></a>UCI Machine Learning Repository
+The go-to for a lot of starter datasets, all available for free and downloadable without any extra work.
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-#### <a name="qtl"></a>[Past KDD Cups](http://www.kdd.org/kdd-cup)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+[Data Repository](https://archive.ics.uci.edu/ml/datasets.html)
 
 ---
 
-#### <a name="qtl"></a>[Driven Data](https://www.drivendata.org/)
-{Add description of data here}
+##### <a name="world_bank"></a>World Bank Open Data
+The World Bank has a repository full of financial data with regards to global development (GDP, population, etc.). It is mostly time series data and is somewhat limited in download options but still a decent source.
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+[Data Repository](https://data.worldbank.org/)
 
 ---
 
+<center><a href="#top">Back to Top</a></center>
 
-## <a name="Tutorials"></a>Tutorials
-- [initial steps toward reproducible research](http://kbroman.org/steps2rr)
-- [organizing data in spreadsheets](http://kbroman.org/dataorg)
-- [git/github guide](http://kbroman.org/github_tutorial)
-- [minimal make](http://kbroman.org/minimal_make)
-- [knitr in a knutshell](http://kbroman.org/knitr_knutshell)
-- [R package primer](http://kbroman.org/pkg_primer)
-- [simple site](http://kbroman.org/simple_site): making a simple
-  website with [GitHub Pages](http://pages.github.com)
-- [hipsteR](http://kbroman.org/hipsteR/): re-educating people who learned R before it was cool
-
-
-- [intro to R](http://www.biostat.wisc.edu/~kbroman/Rintro)
-  \[not really a tutorial, but there are some useful links here\]
-- [intro to Perl](http://www.biostat.wisc.edu/~kbroman/perlintro)
-  \[very old; I now recommend [ruby](https://www.ruby-lang.org/en/) or [python](https://www.python.org/)\]
-- [intro to C](http://www.biostat.wisc.edu/~kbroman/Cintro)
-  \[not really a tutorial, but it includes a list of C programming books\]
-- [top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/)
-
-
-## <a name="Miscelaneous"></a>Miscelaneous
+---
 ---
 
+#### <a name="datasets"></a>Datasets
+##### <a name="youtube"></a>YouTube-8M Segments [![GitHub](icons16/github-icon.png)](https://github.com/google/youtube-8m)
+AWS hosts a registry with open data to use. Data hosted here cannot be downloaded/used via normal means; ac
+This dataset is a labeled dataset for YouTube videos. It contains info on millions of YouTube videos with things like annotations and segments. This is useful for doing audio-visual related modeling and it is the dataset used in [this Kaggle competition](https://www.kaggle.com/c/youtube8m-2019). The GitHub page has more information on how to download and use the dataset.
+
+[More Information](https://research.google.com/youtube8m/)
+
+---
+
+<center><a href="#top">Back to Top</a></center>
+
+---
+---
+
+#### <a name="Tutorials"></a>Tutorials
+
+---
+
+<center><a href="#top">Back to Top</a></center>
+
+---
+---
+
+#### <a name="Miscellaneous"></a>Miscellaneous
+
+---
+
+<center><a href="#top">Back to Top</a></center>
+
+---
+---

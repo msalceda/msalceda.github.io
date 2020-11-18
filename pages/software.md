@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Analytics Toolkit
-description: Ben Harvey's assignments
+description: Michael Salceda's DS Toolkit
 ---
 
 <div class="navbar">

@@ -103,8 +103,11 @@ Go through a set of ntoebooks for the Databricks course "Machine Learning with A
 
 ####  <a name="seas6401-assignment4"></a>Assignment 4
 
+---
+
 <center><a href="#top">Back to Top</a></center>
 
+---
 ---
 
 ### <a name="emse6574"></a> EMSE 6574 - Programming for Analytics
@@ -215,6 +218,8 @@ Pick a stock and download price data. Then resample data to weekly and monthly p
 Find a source of text and create a bag-of-words representation. Build a simple sentiment analyzer from scratch without using any sentiment packages.
 
 <a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_10_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
+
+---
 
 <center><a href="#top">Back to Top</a></center>
 

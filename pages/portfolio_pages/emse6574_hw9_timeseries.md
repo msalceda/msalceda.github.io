@@ -3,6 +3,8 @@ layout: frontpage
 title: Time Series Analysis and Prediction
 ---
 
+## Time Series Analysis & Prediction
+
 This notebook attempts to predict stock prices using a SARIMA model. It goes into the steps of time series analysis, in particular, the steps to take to determine the various parameters of the (S)ARIMA model.
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_9_Assignment_Michael_Salceda.ipynb)
