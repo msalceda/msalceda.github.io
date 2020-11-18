@@ -1,5 +1,6 @@
 ---
 layout: frontpage
+date: 2020-11-17
 title: Time Series Analysis and Prediction
 ---
 

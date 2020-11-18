@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources
+date: 2020-11-17
 description: Data Science Resources
 ---
 <a name="top"></a>
