@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Michael Salceda
-date: 2020-11-10
+date: 2020-11-16
 description: Michael Salceda is a current Master's student in Data Analytics at The George Washington University
 keywords: statistics, data analytics
 ---
