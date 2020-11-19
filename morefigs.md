@@ -4,7 +4,7 @@ title: Michael Salceda
 date: 2020-11-17
 ---
 
-<div class="navbar">
+<!-- <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="{{ BASE_PATH }}/assets/20201118_Resume.pdf">Resume</a></li>
@@ -12,7 +12,7 @@ date: 2020-11-17
             <li><a href="https://www.linkedin.com/in/salcedam/">LinkedIn</a></li>
         </ul>
     </div>
-</div>
+</div> -->
 
 ### <a name="Portfolio"></a>Portfolio
 
