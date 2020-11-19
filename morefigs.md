@@ -7,7 +7,7 @@ date: 2020-11-17
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="{{ BASE_PATH }}/assets/20200820_Resume.pdf">Resume</a></li>
+            <li><a href="{{ BASE_PATH }}/assets/20201118_Resume.pdf">Resume</a></li>
             <li><a href="https://github.com/msalceda">GitHub</a></li>
             <li><a href="https://www.linkedin.com/in/salcedam/">LinkedIn</a></li>
         </ul>

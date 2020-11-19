@@ -15,6 +15,6 @@ Michael graduated from the University of Illinois at Urbana-Champaign in 2017 wi
 
 
 #### <a name="cvandresume"></a>Resume
-[Resume ![resume as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/20200820_Resume.pdf)
+[Resume ![resume as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/20201118_Resume.pdf)
 
 ---
