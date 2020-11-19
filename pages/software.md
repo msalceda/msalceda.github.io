@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Analytics Toolkit
-date: 2020-11-17
+date: 2020-09-08
 description: Michael Salceda's DS Toolkit
 ---
 <a name="top"></a>

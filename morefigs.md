@@ -1,18 +1,8 @@
 ---
 layout: frontpage
 title: Michael Salceda
-date: 2020-11-17
+date: 2020-09-08
 ---
-
-<!-- <div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="{{ BASE_PATH }}/assets/20201118_Resume.pdf">Resume</a></li>
-            <li><a href="https://github.com/msalceda">GitHub</a></li>
-            <li><a href="https://www.linkedin.com/in/salcedam/">LinkedIn</a></li>
-        </ul>
-    </div>
-</div> -->
 
 ### <a name="Portfolio"></a>Portfolio
 

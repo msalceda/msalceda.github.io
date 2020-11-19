@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class Labs & Assignments
-date: 2020-11-17
+date: 2020-09-08
 description: Michael Salceda's Lab & Assignment Submissions
 ---
 <a name="top"></a>
