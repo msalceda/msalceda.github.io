@@ -35,6 +35,8 @@ This page contains links to assignments and labs from various classes taken at G
 ---
 ---
 ### <a name="seas6401"></a> SEAS 6401 - Data Analytics Foundations & Practicum
+---
+---
 ##### Course Description
 Introduction to concepts and techniques in data analytics. Basic techniques of data science; algorithms for data mining; basics of statistical modeling and their “Big Data” applications. Concepts, abstractions, and practical techniques. Restricted to students in the MS in data analytics program.
 
@@ -112,6 +114,8 @@ Go through a set of ntoebooks for the Databricks course "Machine Learning with A
 ---
 
 ### <a name="emse6574"></a> EMSE 6574 - Programming for Analytics
+---
+---
 ##### Course Description
 Introduction to programming for data analytics using the Python programming language. Prepares students for higher-level courses in data analytics. Recommended background: Some prior experience with programming.
 

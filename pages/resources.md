@@ -43,7 +43,11 @@ description: Data Science Resources
 Resources on this page are mostly available for free and without extra legwork. Make sure to read through the documentation of the data repositories or datasets before using them to fully understand them.
 
 ### <a name="Data"></a>Data
+---
+---
 #### <a name="data_repos"></a>Data Repositories
+---
+---
 ##### <a name="aws"></a>AWS Open Data Registry [![GitHub](icons16/github-icon.png)](https://github.com/awslabs/open-data-registry/)
 AWS hosts a registry with open data to use. Data hosted here cannot be downloaded/used via normal means; access to the data is available through AWS services. Keep in mind that data here is also not maintained or owned by AWS so data can come and go. For more details on how to access the data, go to the GitHub link above. 
 
@@ -97,8 +101,9 @@ The World Bank has a repository full of financial data with regards to global de
 
 ---
 ---
-
 #### <a name="datasets"></a>Datasets
+---
+---
 ##### <a name="youtube"></a>YouTube-8M Segments [![GitHub](icons16/github-icon.png)](https://github.com/google/youtube-8m)
 AWS hosts a registry with open data to use. Data hosted here cannot be downloaded/used via normal means; ac
 This dataset is a labeled dataset for YouTube videos. It contains info on millions of YouTube videos with things like annotations and segments. This is useful for doing audio-visual related modeling and it is the dataset used in [this Kaggle competition](https://www.kaggle.com/c/youtube8m-2019). The GitHub page has more information on how to download and use the dataset.
@@ -113,6 +118,10 @@ This dataset is a labeled dataset for YouTube videos. It contains info on millio
 ---
 
 #### <a name="Tutorials"></a>Tutorials
+---
+---
+
+To be filled...
 
 ---
 
@@ -122,6 +131,10 @@ This dataset is a labeled dataset for YouTube videos. It contains info on millio
 ---
 
 #### <a name="Miscellaneous"></a>Miscellaneous
+---
+---
+
+To be filled...
 
 ---
 
