@@ -8,7 +8,7 @@ description: Michael Salceda is...
 <center><img src="/assets/pics/Me_SF.jpg" alt="Me" style="width:550px;height:400px;"></center>
 
 #### <a name="currentposition"></a>Current Position
-Michael is a data scientist at Publicis Sapient, working with various private and public sector clients to implement machine learning solutions. He has been with Publicis Sapient since 2017, doing projects in various machine learning subject areas and business contexts such as customer segmentation, text classification, and anomaly detection.
+Michael is a data scientist at Publicis Sapient, working with private and public sector clients to implement machine learning solutions. He has been with Publicis Sapient since 2017 doing projects in various machine learning subject areas and business contexts such as customer segmentation, text classification, and anomaly detection.
 
 #### <a name="education"></a>Education
 Michael graduated from the University of Illinois at Urbana-Champaign in 2017 with a B.S. in Computer Engineering. He is currently pursuing an M.S. in Data Analytics from George Washington University.
