@@ -140,7 +140,7 @@ Introduction to programming for data analytics using the Python programming lang
 ##### Assignment Description 
 Create a function to return whether a string is a palindrome or not. Also, create a fake dataset and filter it based on some conditions.
 
-<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_1_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_1_Assignment_Michael_Salceda.ipynb)
 
 ---
 
@@ -148,7 +148,7 @@ Create a function to return whether a string is a palindrome or not. Also, creat
 ##### Assignment Description 
 Create a graph class and use it to create a social network graph. Then, look at the FEC data, do some spelunking, and build a graph of connections you find in the FEC data.
 
-<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_2_Assignment_Michael_Salceda.ipynb)
 
 ---
 
@@ -162,7 +162,7 @@ Take a look at the FEC data and do the following:
 4. Apply a linear regression model to try to determine if a boss donating to a party causes employees more/less likely to donate to the same party.
 5. See the party balance in Colorado.
 
-<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_3_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_3_Assignment_Michael_Salceda.ipynb)
 
 ---
 
@@ -170,7 +170,7 @@ Take a look at the FEC data and do the following:
 ##### Assignment Description 
 Analyze `m_data` and `w_data`. What is it telling us? There were two groups: a contol group and a test group. The test group was told some additional information on the dataset. I was part of the control group - I did not receive any hints/information on the dataset.
 
-<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_4_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_4_Assignment_Michael_Salceda.ipynb)
 
 ---
 
@@ -178,7 +178,7 @@ Analyze `m_data` and `w_data`. What is it telling us? There were two groups: a c
 ##### Assignment Description 
 Go through [https://www.kaggle.com/ash316/ml-from-scratch-with-iris](https://www.kaggle.com/ash316/ml-from-scratch-with-iris) and replicate the notebook. Also try it on another dataset.
 
-<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_5_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_5_Assignment_Michael_Salceda.ipynb)
 
 ---
 
@@ -190,7 +190,7 @@ Find a regressor that will predict diamond prices better than the in-class regre
 
 The dataset to use is the diamond dataset ([https://www.kaggle.com/shivam2503/diamonds](https://www.kaggle.com/shivam2503/diamonds)).
 
-<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_6_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_6_Assignment_Michael_Salceda.ipynb)
 
 ---
 
@@ -198,7 +198,7 @@ The dataset to use is the diamond dataset ([https://www.kaggle.com/shivam2503/di
 ##### Assignment Description 
 Find a dataset and apply a random forest classifier/regressor on it.
 
-<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_7_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_7_Assignment_Michael_Salceda.ipynb)
 
 ---
 
@@ -206,7 +206,7 @@ Find a dataset and apply a random forest classifier/regressor on it.
 ##### Assignment Description 
 Code a genetic algorithm to optimize a particular problem. My problem of choice is the traveling salesman problem - visit all cities in a list in the shortest distance possible without revisiting already visited cities.
 
-<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_8_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_8_Assignment_Michael_Salceda.ipynb)
 
 ---
 
@@ -214,7 +214,7 @@ Code a genetic algorithm to optimize a particular problem. My problem of choice 
 ##### Assignment Description 
 Pick a stock and download price data. Then resample data to weekly and monthly prices. Determine if there's any seasonality and train a SARIMA model on it to try and predict future prices.
 
-<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_9_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_9_Assignment_Michael_Salceda.ipynb)
 
 ---
 
@@ -222,7 +222,7 @@ Pick a stock and download price data. Then resample data to weekly and monthly p
 ##### Assignment Description 
 Find a source of text and create a bag-of-words representation. Build a simple sentiment analyzer from scratch without using any sentiment packages.
 
-<a href="https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_10_Assignment_Michael_Salceda.ipynb">View notebook on nbviewer.</a>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_10_Assignment_Michael_Salceda.ipynb)
 
 ---
 
