@@ -47,6 +47,7 @@ Introduction to concepts and techniques in data analytics. Basic techniques of d
             <li><a href="#seas6401-assignment2">Assignment 2</a></li>
             <li><a href="#seas6401-assignment3">Assignment 3</a></li>
             <li><a href="#seas6401-assignment4">Assignment 4</a></li>
+            <li><a href="#seas6401-final-project">Final Project</a></li>
         </ul>
     </div>
 </div>
@@ -105,6 +106,16 @@ Go through a set of ntoebooks for the Databricks course "Machine Learning with A
 ---
 
 ####  <a name="seas6401-assignment4"></a>Assignment 4
+
+---
+
+#### <a name="seas6401-final-project"></a>Final Project
+##### Project Description
+DonorsChoose.org is a charity organization where people from around the world can come together to help teachers and students in need. Teachers can use the DonorsChoose.org platform to put forward project ideas that they believe will help enhance their own students’ education and people can freely choose to donate money to one or several of these project ideas. Each project idea has a goal amount to be reached and if that goal amount is reached, DonorsChoose.org will take all the donations to that project and send the money/supplies in the project to the teacher. 
+
+The mission of DonorsChoose.org is admirable, and the website itself is very nice and sleek, but there is one issue: with so many teacher projects on the site, how can people choose which ones to donate to without having to read through each and every project page? According to DonorsChoose.org FAQ page, “over 70% of projects reach their funding goal”, but of the 30% or less remaining projects, some of those could have been exceptionally important or unique. So how can DonorsChoose.org effectively find and promote these projects to users and prioritize donations to where it is more urgently needed? That is what my project aims to solve.
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/seas6401_assignments/Final_Project/SEAS_6401_Final_Project.ipynb)
 
 ---
 
