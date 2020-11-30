@@ -6,7 +6,7 @@ description: Michael Salceda is a current Master's student in Data Analytics at 
 keywords: statistics, data analytics
 ---
 
-### <a name="Portfolio"></a>Portfolio
+### <a name="Highlights"></a>Highlights
 
 <table class="wide">
 <tr>
