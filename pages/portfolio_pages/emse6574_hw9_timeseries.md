@@ -15,7 +15,7 @@ This notebook attempts to predict stock prices using a SARIMA model. It goes int
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="seas6401_hw3_capstone.html">Previous</a></li>
+          <li><a href="seas6401_final_project.html">Previous</a></li>
           <li><a href="emse6574_hw8_genetic_algo">Next</a></li>
       </ul>
   </div>
