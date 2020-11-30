@@ -7,7 +7,7 @@ description: Michael Salceda's DS Toolkit
 <a name="top"></a>
 <div class="navbar">
     <div class="navbar-inner">
-        <ul class="nav">
+        <ul class="nav" style="float:left">
             <ul class="dropdown">
                 <li>
                     <a href="#python">Python Packages</a>

@@ -7,7 +7,7 @@ description: Data Science Resources
 <a name="top"></a>
 <div class="navbar">
     <div class="navbar-inner">
-        <ul class="nav">
+        <ul class="nav" style="float:left">
             <li>
                 <ul class="dropdown">
                     <li><a href="#Data">Data</a>

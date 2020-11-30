@@ -7,7 +7,7 @@ description: Michael Salceda's Lab & Assignment Submissions
 <a name="top"></a>
 <div class="navbar">
     <div class="navbar-inner">
-        <ul class="nav">
+        <ul class="nav" style="float:left">
             <li>
                 <ul class="dropdown">
                     <li><a href="#GWU">The George Washington University</a>
@@ -42,11 +42,13 @@ Introduction to concepts and techniques in data analytics. Basic techniques of d
 
 <div class="navbar">
     <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#seas6401-assignment1">Assignment 1</a></li>
-            <li><a href="#seas6401-assignment2">Assignment 2</a></li>
-            <li><a href="#seas6401-assignment3">Assignment 3</a></li>
-            <li><a href="#seas6401-assignment4">Assignment 4</a></li>
+        <ul class="nav" style="float:left">
+            <li><a>Assignment:</a></li>
+            <li><a href="#seas6401-assignment1">1</a></li>
+            <li><a href="#seas6401-assignment2">2</a></li>
+            <li><a href="#seas6401-assignment3">3</a></li>
+            <li><a href="#seas6401-assignment4">4</a></li>
+            <li><a>|</a></li>
             <li><a href="#seas6401-final-project">Final Project</a></li>
         </ul>
     </div>
@@ -143,19 +145,20 @@ Introduction to programming for data analytics using the Python programming lang
 
 <div class="navbar">
     <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#emse6574-assignment1">Assignment 1</a></li>
-            <li><a href="#emse6574-assignment2">Assignment 2</a></li>
-            <li><a href="#emse6574-assignment3">Assignment 3</a></li>
-            <li><a href="#emse6574-assignment4">Assignment 4</a></li>
-            <li><a href="#emse6574-assignment5">Assignment 5</a></li>
-            <li><a href="#emse6574-assignment6">Assignment 6</a></li>
-            <li><a href="#emse6574-assignment7">Assignment 7</a></li>
-            <li><a href="#emse6574-assignment8">Assignment 8</a></li>
-            <li><a href="#emse6574-assignment9">Assignment 9</a></li>
-            <li><a href="#emse6574-assignment10">Assignment 10</a></li>
-            <li><a href="#emse6574-assignment11">Assignment 11</a></li>
-            <li><a href="#emse6574-assignment12">Assignment 12</a></li>
+        <ul class="nav" style="float:left">
+            <li><a>Assignment:</a></li>
+            <li><a href="#emse6574-assignment1">1</a></li>
+            <li><a href="#emse6574-assignment2">2</a></li>
+            <li><a href="#emse6574-assignment3">3</a></li>
+            <li><a href="#emse6574-assignment4">4</a></li>
+            <li><a href="#emse6574-assignment5">5</a></li>
+            <li><a href="#emse6574-assignment6">6</a></li>
+            <li><a href="#emse6574-assignment7">7</a></li>
+            <li><a href="#emse6574-assignment8">8</a></li>
+            <li><a href="#emse6574-assignment9">9</a></li>
+            <li><a href="#emse6574-assignment10">10</a></li>
+            <li><a href="#emse6574-assignment11">11</a></li>
+            <li><a href="#emse6574-assignment12">12</a></li>
         </ul>
     </div>
 </div>
