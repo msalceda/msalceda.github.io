@@ -4,7 +4,7 @@ title: Michael Salceda
 date: 2020-09-08
 ---
 
-### <a name="Portfolio"></a>Portfolio
+### <a name="Highlights"></a>Highlights
 
 <table class="wide">
 <tr>
