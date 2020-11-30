@@ -89,7 +89,7 @@ Go through a set of notebooks for the Databricks courses "Machine Learning Deplo
 
 ####  <a name="seas6401-assignment3"></a>Assignment 3
 ##### Assignment Description
-Go through a set of ntoebooks for the Databricks course "Machine Learning with Apache Spark". The labs and capstone notebook are below.
+Go through a set of notebooks for the Databricks course "Machine Learning with Apache Spark". The labs and capstone notebook are below.
 
 ###### Labs
 * <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW3/ML 01L - Data Exploration Lab.html">Data Exploration</a>
@@ -106,6 +106,17 @@ Go through a set of ntoebooks for the Databricks course "Machine Learning with A
 ---
 
 ####  <a name="seas6401-assignment4"></a>Assignment 4
+##### Assignment Description
+Go through a set of notebooks for the Databricks course "Hands-on Deep Learning with Keras, TensorFlow, and Apache Spark" as well as the course "Introduction to Reinforcement Learning". The links below are for the labs for the deep learning course.
+
+###### Labs
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW4/DL 02L - Keras Lab.html">Keras</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW4/DL 03L - Advanced Keras Lab.html">Advanced Keras</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW4/DL 04L - MLflow Lab.html">MLflow</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW4/DL 05L - Hyperopt Lab.html">Hyperpamater Tuning with Hyperopt</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW4/DL 06L - Horovod Lab.html">Parallel Training with Horovod</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW4/DL 08L - Lime for CNNs Lab.html">LIME for CNNs</a>
+* <a href="{{ BASE_PATH }}/assets/seas6401_assignments/HW4/DL 09L - Transfer Learning Lab.html">Transfer Learning</a>
 
 ---
 
@@ -143,6 +154,8 @@ Introduction to programming for data analytics using the Python programming lang
             <li><a href="#emse6574-assignment8">Assignment 8</a></li>
             <li><a href="#emse6574-assignment9">Assignment 9</a></li>
             <li><a href="#emse6574-assignment10">Assignment 10</a></li>
+            <li><a href="#emse6574-assignment11">Assignment 11</a></li>
+            <li><a href="#emse6574-assignment12">Assignment 12</a></li>
         </ul>
     </div>
 </div>
@@ -237,6 +250,20 @@ Find a source of text and create a bag-of-words representation. Build a simple s
 
 ---
 
-<center><a href="#top">Back to Top</a></center>
+####  <a name="emse6574-assignment11"></a>Assignment 11
+##### Assignment Description 
+Find a source of text, process it, and use k-means to generate a topic map.
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_11_Assignment_Michael_Salceda.ipynb)
 
 ---
+
+####  <a name="emse6574-assignment12"></a>Assignment 12
+##### Assignment Description 
+Find a source of text and implement a query/search engine from scratch.
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_12_Assignment_Michael_Salceda.ipynb)
+
+---
+
+<center><a href="#top">Back to Top</a></center>
