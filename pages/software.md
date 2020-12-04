@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Analytics Toolkit
+title: Software & Packages
 date: 2020-09-08
 description: Michael Salceda's DS Toolkit
 ---
