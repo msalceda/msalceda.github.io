@@ -160,6 +160,7 @@ Introduction to programming for data analytics using the Python programming lang
             <li><a href="#emse6574-assignment10">10</a></li>
             <li><a href="#emse6574-assignment11">11</a></li>
             <li><a href="#emse6574-assignment12">12</a></li>
+            <li><a href="#emse6574-assignment13">13</a></li>
         </ul>
     </div>
 </div>
@@ -267,6 +268,14 @@ Find a source of text, process it, and use k-means to generate a topic map.
 Find a source of text and implement a query/search engine from scratch.
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_12_Assignment_Michael_Salceda.ipynb)
+
+---
+
+####  <a name="emse6574-assignment13"></a>Assignment 13
+##### Assignment Description 
+Get some data and do something interesting with NetworkX.
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_13_Assignment_Michael_Salceda.ipynb)
 
 ---
 
