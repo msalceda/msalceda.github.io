@@ -161,6 +161,7 @@ Introduction to programming for data analytics using the Python programming lang
             <li><a href="#emse6574-assignment11">11</a></li>
             <li><a href="#emse6574-assignment12">12</a></li>
             <li><a href="#emse6574-assignment13">13</a></li>
+            <li><a href="#emse6574-final-project">Final Project</a></li>
         </ul>
     </div>
 </div>
@@ -276,6 +277,14 @@ Find a source of text and implement a query/search engine from scratch.
 Get some data and do something interesting with NetworkX.
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/Week_13_Assignment_Michael_Salceda.ipynb)
+
+---
+
+####  <a name="emse6574-final-project"></a>Final Project
+##### Assignment Description 
+For this class project, we are trying to create two models to predict the type of cuisine and the amount of calories from a list of ingredients. With these two models, we then create a web application so people can play around with it. The app was created using Streamlit and hosted with Streamlit Sharing. To see the app, click the Streamlit badge below.
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/msalceda/msalceda.github.io/blob/master/assets/emse6574_assignments/EMSE_6574_Final_Project.ipynb) [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
 
 ---
 
